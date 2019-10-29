@@ -1,7 +1,7 @@
 # Site
 title:              dynamistics
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+bio:                'This is Valeria'
+description:        "This is Valeria"
 locale:             en_US
 baseurl: "/dynamistics" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -17,9 +17,9 @@ instagram:          default
 github:             default
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com # change this to your email to receive free emails for your contact submissions via Slapform.com
+location:           Leuven, Belgium
+phone:              
+email:              valeria.fonseca.diaz@gmail.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
 background_image:   /images/bg.jpg
