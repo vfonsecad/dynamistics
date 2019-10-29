@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Models"
+title:  "What matters?"
 date:   2019-10-30
 excerpt: "What is a model?"
 image: "/images/pic03.jpg"
 ---
 
-## 
+## The big picture
 
 Did you ever ask that question to yourself? I am not a psychologist and I do not pretend to be one, but luckily, 
 thinking about these deep questions and finding their answers made me learn and realize so many aspects 
