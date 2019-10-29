@@ -13,4 +13,4 @@ sitemap:
 
 hello there all! Loading...
 
-### Content is Imortant
+### Content is Important
