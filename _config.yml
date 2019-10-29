@@ -11,10 +11,10 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+twitter:            https://twitter.com/valefonsecadiaz
+facebook:           https://www.facebook.com/valeriafonsecadiaz
+instagram:          https://www.instagram.com/valeriafonsecadiaz/
+github:             https://github.com/vfonsecad
 
 # personal
 location:           Leuven, Belgium
