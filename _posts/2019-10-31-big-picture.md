@@ -2,8 +2,8 @@
 layout: post
 title:  "What matters?"
 date:   2019-10-30
-excerpt: "What is a model?"
-image: "/images/pic03.jpg"
+excerpt: ""
+image: "/images/coffee_with_love.jpg"
 ---
 
 ## The big picture
