@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "This is the story of a stunning depression, welcome!"
-date:   2019-08-19
+date:   2019-04-27
 excerpt: "Yes, I'm currently celebrating my depression..."
 ---
 
