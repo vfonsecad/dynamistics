@@ -11,6 +11,9 @@ sitemap:
 
 <span class="image left"><img src="{{ "/images/IMG_20181226_151001.jpg" | absolute_url }}" alt="" /></span>
 
-hello there all! Loading...
+hello there all! 
+
+<em> Loading... </em>
+
 Further info can be found on the social media links
 
