@@ -5,9 +5,7 @@ date:   2019-08-19
 excerpt: "Yes, I'm currently celebrating my depression..."
 ---
 
-
-
-
+# This is the story of a stunning depression, welcome!
 
 Yes, I'm currently celebrating my depression. I have had so many wonderful experiences in my life, I have wonderful parents and a family that loves me, I've always had everything that I needed, I've even been the best student, I think I'm a good friend, and I won the lottery with the best man on Earth I have ever met. Nonetheless, today I celebrate infinitely the depression that invaded getting me almost to the end of my life. 
 
