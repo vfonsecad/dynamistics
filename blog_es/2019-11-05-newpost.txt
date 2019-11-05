@@ -1,0 +1,106 @@
+
+Para los colombianos, no sé si recuerdan el apartado que Jaime Garzón redactó en nombre de uno de sus personajes sobre unos 
+17
+<a href="https://www.youtube.com/watch?v=C8xOQUUDuiw">extraterrestes que vinieron a buscar vida inteligente en la tierra</a>.
+18
+Nada más qué decir, es muy fácil llegar al poder y tener reconocimiento social y ser queridos por el pueblo que ya nos quiere. Ahora digo yo, es posiblemente más fácil llegar al acuerdo con la parte contraria en momento de conflicto, pero es tan fácil, que nuestra potente inteligencia no puede creer que pueda ser tan sencillo y sigue creando problemas en la búsqueda de una solución más sofisticada y compleja.  
+19
+​
+20
+¿Cómo puede un gobierno vivir día a día sabiendo que tiene a cargo una sociedad que no lo quiere, que lo odia, 
+21
+que lo aborrece?. ¿Cómo puede un pueblo seguir soportando la violencia diaria, el insulto político, la desgracia social 
+22
+manteniendo los dichos mandatarios que están ahí para servirle al pueblo y hacen de todo menos servirle al pueblo?
+23
+Nosotros elegimos, elegimos a los mandatarios, elegimos qué hacer con ellos, y elegimos qué hacer a pesar de ellos. 
+24
+​
+25
+Escuchando la radio día a día, pasan por los micrófonos senadores y representantes contanto los proyectos de ley en los que 
+26
+están trabajando en sus correspondientes instituciones. ¿Qué de divertido tiene sentarse a debatir proyectos de ley dizque 
+27
+para el bienestar de la sociedad, cuando 100 sujetos tienen todos puntos de vista diferentes y gastan nuestros recursos 
+28
+económicos peleando, bueno, debatiendo, mientras la sociedad está llena de necesidades afuera de los edificios de esas 
+29
+instituciones?. Eso no tiene nada de divertido, nuestros mandatarios nos absorben tanto dinero, que no importa cuánto 
+30
+tengan que pelear con tal de que les llegue su pago mensual como el de arriba manda, sea un dios o sea el marciano. 
+31
+​
+32
+Traigo a colación a mi queridísimo y adoradisimo TED con un epísodio de podcast llamado <a href="https://www.npr.org/programs/ted-radio-hour/558307433?t=1572948291396">"Dialogue and Exchange"</a>,
+33
+en español "Díalogo e intercambio", en donde se entrevista a un mandatario de los países nórdicos opinando sobre el tema 
+34
+de cómo convivir con la parte que piensa diferente a nosotros. Los invito, muy cordialmente a todos, a los ciudadanos y a 
+35
+los mandatarios a escuchar este episodio.
+
+
+
+, nos queda muy grande como sociedad solucionar los problemas/conflictos. Dentro de tanta inteligencia que invade 
+nuestro cerebro, dentro de tantas capacidades que hemos desarrollado a lo largo de la historia de la humanidad, incluso
+con la ayuda inagotable del de arriba para muchos, nos ha quedado imposible solucionar nuestros conflictos.
+
+Pregunta, ¿cómo es posible que existan conflictos armados tan grandes, en el campo y en la ciudad, y seamos incapaces de 
+detener todos esos daños?. ¿Cómo es posible que el descontento social con un gobierno sea tan explícito como sucede en 
+estos momentos en Chile, y haya un gobierno tan mentalmente pequeño para darse cuenta que eso hay que solucionarlo?. 
+Sencillamente porque nos queda imposible como humanos tener poder político y ser inteligentes emocionalmente al mismo tiempo. 
+
+Para los colombianos, no sé si recuerdan el apartado que Jaime Garzón redactó en nombre de uno de sus personajes sobre unos 
+.
+Nada más qué decir, es muy fácil llegar al poder y tener reconocimiento social y ser queridos por el pueblo que ya nos quiere. Ahora digo yo, es posiblemente más fácil llegar al acuerdo con la parte contraria en momento de conflicto, pero es tan fácil, que nuestra potente inteligencia no puede creer que pueda ser tan sencillo y sigue creando problemas en la búsqueda de una solución más sofisticada y compleja.  
+
+¿Cómo puede un gobierno vivir día a día sabiendo que tiene a cargo una sociedad que no lo quiere, que lo odia, 
+que lo aborrece?. ¿Cómo puede un pueblo seguir soportando la violencia diaria, el insulto político, la desgracia social 
+manteniendo los dichos mandatarios que están ahí para servirle al pueblo y hacen de todo menos servirle al pueblo?
+Nosotros elegimos, elegimos a los mandatarios, elegimos qué hacer con ellos, y elegimos qué hacer a pesar de ellos. 
+
+Escuchando la radio día a día, pasan por los micrófonos senadores y representantes contanto los proyectos de ley en los que 
+están trabajando en sus correspondientes instituciones. ¿Qué de divertido tiene sentarse a debatir proyectos de ley dizque 
+para el bienestar de la sociedad, cuando 100 sujetos tienen todos puntos de vista diferentes y gastan nuestros recursos 
+económicos peleando, bueno, debatiendo, mientras la sociedad está llena de necesidades afuera de los edificios de esas 
+instituciones?. Eso no tiene nada de divertido, nuestros mandatarios nos absorben tanto dinero, que no importa cuánto 
+tengan que pelear con tal de que les llegue su pago mensual como el de arriba manda, sea un dios o sea el marciano. 
+
+Traigo a colación a mi queridísimo y adoradisimo TED con un epísodio de podcast llamado Dialogue and Exchange,
+en español "Díalogo e intercambio", en donde se entrevista a un mandatario de los países nórdicos opinando sobre el tema 
+de cómo convivir con la parte que piensa diferente a nosotros. Los invito, muy cordialmente a todos, a los ciudadanos y a 
+los mandatarios a escuchar este episodio.
+
+No es el aborto lo que debería ser ilegal. Debería ser ilegal no escuchar a la sociedad, debería ser ilegal no salir a detener los conflictos que generan toques de queda. Debería ser ley hacer citas con el presidente cada mes por grupos de personas distintos para que escuche lo que pensamos de ellos. Debería ser ilegal ser incapacaz de tener una comunicación efectiva con la sociedad. 
+
+
+
+
+<!-- ********************************** nos queda grande -->
+
+<div class="box">
+ 
+<header>
+<span class="date">{{ "2019-11-05" | date_to_string }}
+	</span>
+<h2><a href="/dynamistics/blog_es/2019-11-05-politica/">Nos queda muy grande</a>
+	</h2>
+	</header>
+<!--
+	<span class="image left">
+	<a href="/dynamistics/blog_es/2019-08-19-que-como-cuando/" class="image fit">
+			<img src="/dynamistics/images/palabras.png" alt="" height="10%"/></a>
+	</span>
+-->
+
+<p>Diálogo e intercambio. Es muy fácil...</p>
+	
+	<ul class="actions">
+		<li><a href="/dynamistics/blog_es/2019-11-05-politica/" class="button">Ver más</a></li>
+	</ul> 
+
+	
+</div>
+
+<br>
+<br>
