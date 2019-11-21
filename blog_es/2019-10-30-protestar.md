@@ -15,12 +15,10 @@ que se comercializa en la política. Nunca olvidaré a Pacho Santos decir en las
 el discurso de su partido político tenía que cambiar porque los jóvenes hoy en día pensaban diferente. Y así estamos, 
 de discurso en discurso, de idea en idea, mientras la gente que no comercializa discurso político se muere.
 
-Hoy es el día de la marcha nacional en Colombia después de todos los acontecimientos en Chile. Señor presidente, muchas gracias por
-su invitación a marchar pacíficamente, pero no es ese el propósito de la marcha. La sociedad colombiana no está buscando el reconocimiento
-de ser una sociedad que se expresa. Esto es solo un mecanismo que se usa para conseguir un fin: un cambio. No nos invite a ser pacíficos,
-nosotros no necesitamos invitaciones de nada. Más bien, ¿por qué ud no acepta la invitación a detener la ineptitud del actual gobierno colombiano
-y se detiene un momento a ejecutar, no proponer, ejecutar los cambios que se necesitan? No nos diga más por medio de sus interlocuciones lo que debemos
-hacer, que si hay alguien acá que debe seguir órdenes, es usted. 
+21 de noviembre es el día de la marcha nacional en Colombia después de todos los acontecimientos en Chile. Señor presidente, muchas gracias por
+su invitación a marchar pacíficamente, pero no es ese el foco que necesitamos. La sociedad colombiana no está buscando el reconocimiento
+de ser una sociedad que se expresa. Esto es un mecanismo que se usa para conseguir un fin: un cambio. Más allá de invitarnos a marchar pacíficamente, no desvíe la atención de lo fundamental. Más bien, ¿por qué ud no acepta la invitación a detener la ineptitud del actual gobierno colombiano
+y se detiene un momento a ejecutar, no proponer, ejecutar los cambios que se necesitan? No nos diga por medio de sus interlocuciones lo que debemos hacer, que si hay alguien acá que debe seguir órdenes, es usted. 
 
 Entiendo que le preocupe la pacificidad de la protesta, porque finalmente el que queda mal ante el mundo es usted directamente. 
 Nadie va a señalarnos por expresarnos, en cambio a usted sí por no escuchar a la sociedad. Pero a nosotros no nos interesa su
