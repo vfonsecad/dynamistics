@@ -23,12 +23,11 @@ y se detiene un momento a ejecutar, no proponer, ejecutar los cambios que se nec
 Entiendo que le preocupe la pacificidad de la protesta, porque finalmente el que queda mal ante el mundo es usted directamente. 
 Nadie va a señalarnos por expresarnos, en cambio a usted sí por no escuchar a la sociedad. Pero a nosotros no nos interesa su
 integridad y bienestar personal más de lo que nos interesa el bienestar de millones de colombianos. Que si usted se perjudica moralmente,
-qué pena, pero no podemos poner su integridad moral por encima de los intereses sociales. Que si la marcha ha de ser pacífica,
-no lo sea por el bien suyo presidente, que sea por el bien de cada colombiano. Sin embargo, la realidad es distinta. Cada acción genera una
-reacción, y habrá perjuicios, bajos y altos, después de esta marcha, ojalá mucho más bajos que altos. Bájese de la nube del discurso, y póngase de pie en la realidad
-social de Colombia.
+qué pena, pero no podemos poner su integridad moral por encima de los intereses sociales. Que la marcha sea pacífica por el bien de cada colombiano y de nuestro patrimonio, no por beneficio suyo. Muy desafortunadamente la realidad es distinta. Cada acción genera una
+reacción, y habrá perjuicios, bajos y altos, ojalá mucho más bajos que altos. Bájese de la nube del discurso, y póngase de pie en la realidad
+social de Colombia con foco en lo fundamental: actuar. 
 
 Que todos los que quieran alzar la voz de protesta lo hagan y que aquellos que consideren eso como un mecanismo negativo tengan también
-el derecho de callar, pero que el gobierno entienda que este suceso no es solo una experiencia más que queremos grabar en la historia social del país.
+el derecho de callar, pero que el gobierno entienda que este suceso no es solo una experiencia más que queremos grabar en la historia social del país por ser llevada a cabo pacíficamente.
 
 
