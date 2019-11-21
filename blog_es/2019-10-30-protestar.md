@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "los derechos"
+title:  "protestar como derecho o como mecanismo"
 date:   2019-10-30
 ---
 
 Todos tenemos derechos. Los que quieren protestar tienen derecho a protestar, quienes consideran las protestas sociales masivas
 como un mecanismo de manipulación tienen derecho a pensarlo de esa forma, a quedarse en su casa o en su trabajo sin levantar la voz.
-Los derechos en en el papel son la expresión más propia que haya leído del romanticismo. Lastimosamente, las ideas hasta el momento 
-no proveen calorías para los cuerpos. No obstante, son las ideas y la lucha por defender los valores las que obstaculizan o abren el acceso a lo biológicamente básico.
+Pero la simple posesión del derecho a protestar o a callar es la expresión más propia que haya leído del romanticismo. Lastimosamente, el simple uso de ese derecho hasta el momento 
+no provee calorías para los cuerpos. No obstante, la falta de cambio después del uso de tal derecho sí obstaculiza el acceso a lo biológicamente básico.
 
 El presidente de Colombia sale a hablar dichoso y orgulloso de su gobierno por ser un gobierno que escucha. Señor presidente,
 la gente no necesita un gobierno que escuche más de lo que necesita un gobierno que actúe. Discursos y estrategias son el producto
@@ -31,8 +31,6 @@ reacción, y habrá perjuicios, bajos y altos, después de esta marcha, ojalá m
 social de Colombia.
 
 Que todos los que quieran alzar la voz de protesta lo hagan y que aquellos que consideren eso como un mecanismo negativo tengan también
-el derecho de callar. Que si de algo hemos de estar obligados sea de comer, de respirar y de no matar, pero jamás de la dirección en la cual 
-debemos opinar. 
-
+el derecho de callar, pero que el gobierno entienda que este suceso no es solo una experiencia más que queremos grabar en la historia social del país.
 
 
