@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "how many people?"
-date:   2019-11-31
+date:   2019-11-30
 excerpt: ""
 image: ""
 ---
