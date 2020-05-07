@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "To the European Mental Health Week"
+title:  "The right to feel emotionally bad"
 date:   2020-05-05
 excerpt: ""
 image: ""
